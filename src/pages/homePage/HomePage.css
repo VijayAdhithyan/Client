@@ -1,0 +1,37 @@
+.home-page-session{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-height: 100vh;
+}
+
+.left-side-container{
+    margin-top: 100px;
+}
+
+.para-group-1{
+    font-size: 27px;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.para-group-2{
+    word-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+}
+
+.home-btn{
+    background-color: blueviolet;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+.left-side-img{
+    margin-top: 60px;
+}

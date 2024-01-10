@@ -1,0 +1,48 @@
+
+.nav-session{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo-session{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.logo{
+    width: 55px;
+}
+
+.logo-name > p{
+    font-family: 'Glass Antiqua', cursive;
+}
+
+.nav-links{
+    display: flex;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link{
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: blueviolet;
+}
+
+.nav-link:hover{
+    color: rgb(232, 232, 232);
+}
+
+.nav-btn > p{
+    background-color: blueviolet;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
