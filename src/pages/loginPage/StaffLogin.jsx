@@ -44,7 +44,7 @@ const StaffLogin = () => {
         <button className="login-btn">Login</button>
         <br />
         <Link to="/auth/signup/staff" className="signup-btn">
-          Sign up
+          Create account
         </Link>
       </form>
     </div>
